@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-odiff-bin@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/odiff-bin/-/odiff-bin-2.5.0.tgz#b8b551e5a3b48d2b7fe1e8042650fe82c50d7f79"
-  integrity sha512-wquvVqZltr0w3IFWTjiWloNjlIDaMq0aWoWLStV9GHWRjio1Pznh1UkWkVWp8UukT/TiHoFKrRC47viZVOnmsA==
+"odiff-bin@^2.5.0":
+  "integrity" "sha512-wquvVqZltr0w3IFWTjiWloNjlIDaMq0aWoWLStV9GHWRjio1Pznh1UkWkVWp8UukT/TiHoFKrRC47viZVOnmsA=="
+  "resolved" "https://registry.npmjs.org/odiff-bin/-/odiff-bin-2.5.0.tgz"
+  "version" "2.5.0"
 
-odiff@^1.4.3:
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/odiff/-/odiff-1.4.3.tgz#4a1df118c506ddd3fd9f7699d0f512264d62c4c0"
-  integrity sha512-NccZMchUzZAuyN2EtdA8oyQfrSftx7x7RIdC/MXuFrZvB91SUWxC0GVLVHoRve011sTtyZDT8yyt3Zis+NP/gg==
+"odiff@^1.4.3":
+  "integrity" "sha512-NccZMchUzZAuyN2EtdA8oyQfrSftx7x7RIdC/MXuFrZvB91SUWxC0GVLVHoRve011sTtyZDT8yyt3Zis+NP/gg=="
+  "resolved" "https://registry.npmjs.org/odiff/-/odiff-1.4.3.tgz"
+  "version" "1.4.3"
